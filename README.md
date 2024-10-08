@@ -1,4 +1,4 @@
-# Top 50 Challenging Software Projects with Development Guides and Technologies (Part 1: Projects 1-25)
+# Top Challenging Software Projects with Development Guides and Technologies
 
 1. Build your own operating system - 10/10
 
