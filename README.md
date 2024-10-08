@@ -1,6 +1,7 @@
 # Top 50 Challenging Software Projects with Development Guides and Technologies
 
 1. Build your own operating system - 10/10
+
    Technologies and Tools:
    - Assembly language (x86 or ARM)
    - C programming language
@@ -19,7 +20,8 @@
    7. Create device drivers for basic I/O
    8. Implement a shell for user interaction
 
-2. Build your own game engine - 9.5/10
+3. Build your own game engine - 9.5/10
+
    Technologies and Tools:
    - C++ programming language
    - OpenGL or DirectX for graphics
@@ -43,8 +45,9 @@
    9. Implement a UI system
    10. Optimize performance and add debugging tools
 
-3. Build your own database - 9/10
-   Technologies and Tools:
+5. Build your own database - 9/10
+
+   ## Technologies and Tools:
    - C++ or Rust programming language
    - ANTLR or Flex/Bison for query parsing
    - LMDB or RocksDB for storage engine (optional, for learning)
@@ -52,7 +55,7 @@
    - Google Test or Catch2 for unit testing
    - Valgrind for memory profiling
 
-   Development Guide:
+   ## Development Guide:
    1. Design the database file format
    2. Implement basic CRUD operations
    3. Develop an indexing system (e.g., B-tree or hash index)
@@ -64,8 +67,9 @@
    9. Add support for different data types and constraints
    10. Develop a client interface (e.g., CLI or API)
 
-4. Build your own compiler - 9/10
-   Technologies and Tools:
+7. Build your own compiler - 9/10
+
+   ## Technologies and Tools:
    - C++ or OCaml programming language
    - LLVM framework (optional, for backend)
    - Flex and Bison for lexing and parsing
@@ -85,7 +89,7 @@
    9. Add error handling and reporting
    10. Create a runtime environment or interface with an existing one
 
-5. Build your own virtual machine - 9.5/10
+6. Build your own virtual machine - 9.5/10
    Technologies and Tools:
    - C or C++ programming language
    - CMake for build management
@@ -105,7 +109,7 @@
    9. Add support for exceptions and error handling
    10. Optimize the VM for performance
 
-6. Build your own web server - 9.5/10
+7. Build your own web server - 9.5/10
    Technologies and Tools:
    - C++ or Rust programming language
    - Boost.Asio or tokio for asynchronous I/O
@@ -127,7 +131,7 @@
    10. Add support for WebSockets
    11. Optimize for concurrent connections (e.g., using async I/O)
 
-7. Create your own programming language - 9.5/10
+8. Create your own programming language - 9.5/10
    Technologies and Tools:
    - Rust, Haskell, or OCaml for implementation
    - LLVM for code generation (optional)
@@ -149,7 +153,7 @@
    10. Implement error handling and reporting
    11. Optimize the language implementation for performance
 
-8. Implement a distributed file system - 9/10
+9. Implement a distributed file system - 9/10
    Technologies and Tools:
    - Go or Java programming language
    - gRPC for network communication
@@ -171,7 +175,7 @@
    9. Implement security features (authentication, encryption)
    10. Optimize for concurrent access and load balancing
 
-9. Build a neural network framework from scratch - 9/10
+10. Build a neural network framework from scratch - 9/10
    Technologies and Tools:
    - Python programming language
    - NumPy for numerical computations
@@ -193,7 +197,7 @@
    10. Add support for GPU acceleration
    11. Develop visualization tools for training progress
 
-10. Develop a peer-to-peer networking protocol - 8.5/10
+11. Develop a peer-to-peer networking protocol - 8.5/10
     Technologies and Tools:
     - Rust or Go programming language
     - libp2p for network primitives (optional)
